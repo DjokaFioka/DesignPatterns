@@ -19,7 +19,7 @@ public class Sheep implements Animal{
         // If Animal didn't extend Cloneable this error
         // is thrown
         catch (CloneNotSupportedException e) {
-            System.out.println("The Sheep was Turned to Mush");
+            System.out.println("Cloning is not supported!");
             e.printStackTrace();
         }
 
