@@ -27,6 +27,10 @@ public class ATMMachine {
         }
     }
 
+    public ATMState getAtmState() {
+        return atmState;
+    }
+
     public void setAtmState(ATMState newState) {
         atmState = newState;
     }
