@@ -1,4 +1,4 @@
-package org.example.behavioral.observer;
+package org.example.behavioral.observer.banas;
 
 public interface Publisher {
     void register(Observer o);

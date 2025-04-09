@@ -1,4 +1,4 @@
-package org.example.behavioral.observer;
+package org.example.behavioral.observer.banas;
 
 public class StockObserver implements Observer {
 
