@@ -1,4 +1,4 @@
-package org.example.behavioral.strategy;
+package org.example.behavioral.strategy.banas;
 
 public class Dog extends Animal {
     public Dog() {

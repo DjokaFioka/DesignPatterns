@@ -1,4 +1,4 @@
-package org.example.behavioral.strategy;
+package org.example.behavioral.strategy.banas;
 
 // The interface is implemented by many other
 // subclasses that allow for many types of flying
