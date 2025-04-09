@@ -1,4 +1,4 @@
-package org.example.creational.factory;
+package org.example.creational.factory.banas;
 
 // This is a factory thats only job is creating ships
 // By encapsulating ship creation, we only have one

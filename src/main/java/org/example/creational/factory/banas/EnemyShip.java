@@ -1,4 +1,4 @@
-package org.example.creational.factory;
+package org.example.creational.factory.banas;
 
 public class EnemyShip {
     private String name;
